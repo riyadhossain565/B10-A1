@@ -242,6 +242,23 @@ nav {
   border-bottom: 2px solid rgb(13, 19, 33);
 }
 
+/* ------next target section--------- */
+
+.next-target-section {
+  margin: 64px auto;
+  padding: 32px;
+}
+
+.next-target-card {
+  border: 1px solid rgba(13, 19, 33, 0.302);
+  border-radius: 8px;
+  padding: 24px;
+
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
 /* ----Support Section----- */
 
 .support-section {
