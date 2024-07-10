@@ -202,7 +202,7 @@ nav {
 .target-section {
   min-height: 480px;
   margin: 0 auto;
-  margin-top: 56px;
+  margin-top: 96px;
 }
 
 .target-content {
@@ -253,7 +253,7 @@ nav {
 
 .next-target-section {
   margin: 64px auto;
-  padding: 32px;
+  /* padding: 32px; */
 }
 
 .next-target-card {
