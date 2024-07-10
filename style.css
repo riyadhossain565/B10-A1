@@ -292,3 +292,25 @@ nav {
   /* padding-left: 12px; */
   font-size: 18px;
 }
+
+/* ------Footer Section------- */
+
+.footer-section {
+  background-color: rgba(13, 19, 33, 0.03);
+  padding: 24px 102px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-section > div span {
+  font-size: 18px;
+  font-family: inherit;
+  font-weight: 500;
+  color: rgb(13, 19, 33);
+}
+
+.social-link {
+  margin-right: 12px;
+}
